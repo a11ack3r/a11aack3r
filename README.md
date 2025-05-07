@@ -25,4 +25,10 @@ This is my GitHub profile README
 ---
 
 ### 🔧 Bacarıqlarım:
+
+- 🛡️ Penetration Testing (XSS, SQLi, LFI, RCE)
+- 🧰 Alətlər: Nmap, Gobuster, Burp Suite, SQLmap, Metasploit
+- 💾 Versiya nəzarəti: Git & GitHub
+- 🌐 Veb texnologiyaları: HTML, SQL, əsas səviyyədə JavaScript
+
  
